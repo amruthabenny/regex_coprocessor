@@ -1,3 +1,0 @@
-[submodule "re2compiler"]
-	path = re2compiler
-	url = git@github.com:amruthabenny/re2compiler.git
